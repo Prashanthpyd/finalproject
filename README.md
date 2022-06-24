@@ -10,7 +10,7 @@ Project Features- Interactive and responsive UI. Has many graphical and visual i
 
 Primary Azure Technology-
 
-Static Web Apps Visual Studio Code Microsoft Azure Portal
+Static Web Apps, Visual Studio Code, Microsoft Azure Portal
 
 Project Demo URL: https://purple-forest-0a01b6e10.1.azurestaticapps.net
 
